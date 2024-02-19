@@ -139,7 +139,7 @@ cards:
         cards:
           - type: custom:bar-card
             entities:
-              - entity: sensor.system_monitor_utilisation_du_disque
+              - entity: sensor.system_monitor_utilisation_de_la_memoire
                 name: RAM Use
                 icon: phu:ram-memory
                 height: 27px
